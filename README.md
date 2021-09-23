@@ -15,7 +15,7 @@
 <p align="center">
   <em>
     Soy YO, Serrano Mauro, estudiante avanzado de la Facultad de Ingenieria de Jujuy. <br>
-    Un incipiente <b> Desarrollador Full-Stack</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> y un <b>entusiasta de la programacion competitiva</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>que esta <b>obsesionado</b>
+    Un incipiente <b> Desarrollador Full-Stack</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> y un <b>entusiasta de la programacion</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>que esta <b>obsesionado</b>
     con la idea de <b>mejorarse</b> asimismo y quiere una <b>plataforma</b> para
     <b>crecer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">y
     <b>sobresalir</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
@@ -28,12 +28,12 @@
 
 > <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Hablando de cosas personales:***
 
-- <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px">&nbsp;I’m currently working on Competitive Programming...
-- <img src="https://media.giphy.com/media/gicLJtvYJlEh0LSdCl/giphy.gif" width="30px">&nbsp;Actualmente estoy aprendiendo <img alt="Python3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> y <img alt="Python3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />&nbsp;! 
+- <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px">&nbsp;Actualmente me encuentro trabajando en Programacion...
+- <img src="https://media.giphy.com/media/gicLJtvYJlEh0LSdCl/giphy.gif" width="30px">&nbsp;Actualmente estoy aprendiendo nuevos lenguajes de programacion...
 - <img src="https://media.giphy.com/media/mG7xN3NU7WeUUGiKjM/giphy.gif" width="30px">&nbsp;Busco colaborar en un proyecto de código abierto 🤝...
 - <img src="https://media.giphy.com/media/1AgViXhq0ZzOZyYfHV/giphy.gif" width="30px">&nbsp;Estoy buscando ayuda con Testing 😭!
 - <img src="https://media.giphy.com/media/lleGybkEAdmbVE8cKt/giphy.gif" width="30px">&nbsp; Pregúntame sobre cualquier cosa, estoy feliz de ayudar, ¡solo si esta a mi alcance!
-- <img src="https://media.giphy.com/media/1Bek3O06EXr6YaBcLy/giphy.gif" width="30px">&nbsp;Dato Curioso: Tengo ***13 razones por las que***▶️&nbsp;vivir **Happy** & *Money* son uno de ellos...
+- <img src="https://media.giphy.com/media/1Bek3O06EXr6YaBcLy/giphy.gif" width="30px">&nbsp;Dato Curioso: Tengo ***13 razones por las que*** vivir, **Ser Feliz** & *Crecer como Programador* son uno de ellos...
 
 <hr>
 <p align="center">
